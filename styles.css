@@ -1,0 +1,28 @@
+Body {
+    color:rgb(241, 241, 241);
+    background:rgb(0, 0, 0);
+   }
+   
+   header {
+       border-bottom: solid 2px rgb(0, 0, 0);
+       padding: 40px;
+       font-size: 40px;
+       color: rgb(36, 235, 10);
+   }
+   
+    section{
+       background: rgb(28, 43, 28);
+       padding-bottom: 80px;
+       padding-top: 80px;
+       display: Flex;
+       justify-content: center;
+   
+    }
+   
+    .Chamad-texto{
+       margin-right: 1%
+    }
+   
+    div{
+   margin-right: 240px;
+    }
